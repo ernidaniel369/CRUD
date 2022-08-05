@@ -8,7 +8,7 @@ import { Observable } from 'rxjs';
 })
 export class JuegosService {
 
-  API_URI = 'http://localhost:3000/api';
+  API_URI = 'https://crudserver369.herokuapp.com/api';
 
   constructor(private http: HttpClient) { }
 
