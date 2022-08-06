@@ -1,0 +1,10 @@
+.fondo{
+    margin-top: 30px;     
+}
+
+.card:hover {
+    
+    bottom: 10px;
+    left: 10px;
+    box-shadow: 10px 10px 30px black;
+}
